@@ -1,6 +1,6 @@
 Copy the code to enable Check My Progress
 
-```
+```javascript
 javascript:(function () {
     const removeLearboard = document.querySelector('.js-lab-leaderboard');
     const showScore = document.querySelector('.games-labs');
